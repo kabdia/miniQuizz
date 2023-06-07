@@ -1,0 +1,2 @@
+# miniQuizz
+тест на React
